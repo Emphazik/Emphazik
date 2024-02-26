@@ -16,7 +16,7 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Languages by type: Kotlin, C++, C#
+- ✨ Languages by type: Kotlin, Java, C#
 
 ### - Hobbies : 
 - ✨ Gaming Addict
